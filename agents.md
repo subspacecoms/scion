@@ -18,6 +18,7 @@
 - **Backend Language**: Go (Golang)
 - **CLI Framework**: [Cobra](https://github.com/spf13/cobra)
 - **Frontend Stack**: TypeScript, React, Vite, Koa (Node.js for SSR/BFF)
+
 - **Runtimes**:
   - **macOS**: Apple Virtualization Framework (via `container` CLI)
   - **Linux/Generic**: Docker
